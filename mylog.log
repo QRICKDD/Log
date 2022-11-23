@@ -1,7 +1,3 @@
-[2022-11-23 23:02:03,759]:ERROR:xasdada  <class 'datetime.time'>
-[2022-11-23 23:02:03,759]:ERROR:xasdada  <class 'datetime.time'>
-[2022-11-23 23:02:03,760]:ERROR:xasdada  <class 'datetime.time'>
-[2022-11-23 23:02:03,760]:ERROR:xasdada  <class 'datetime.time'>
-[2022-11-23 23:02:03,760]:ERROR:xasdada  <class 'datetime.time'>
-[2022-11-23 23:02:03,760]:ERROR:xasdada  <class 'datetime.time'>
-[2022-11-23 23:02:03,760]:ERROR:xasdada  <class 'datetime.time'>
+[2022-11-23 23:14:06,081]:INFO:xasdada  <class 'datetime.time'>
+[2022-11-23 23:14:06,081]:INFO:xasdada  <class 'datetime.time'>
+[2022-11-23 23:14:06,081]:CRITICAL: loggging critical message
